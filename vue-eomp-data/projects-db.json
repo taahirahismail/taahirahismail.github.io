@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Candle Store",
+        "img": "https://i.postimg.cc/MTqNwxcB/candles.png",
+        "github": "https://github.com/CummingsRayyan/Candles_group_exercise.git",
+        "netlify": "https://main--flourishing-pudding-bf3eed.netlify.app/"
+    },
+    {
+        "id": 2,
+        "title": "NGO Website",
+        "img": "https://i.postimg.cc/zXGNWwGh/ngo-website.png",
+        "github": "https://github.com/taahirahismail/group-3.git",
+        "netlify": "https://effervescent-tanuki-848b0d.netlify.app"
+    },
+    {
+        "id": 3,
+        "title": "First Portfolio",
+        "img": "https://i.postimg.cc/660wybtw/portfolio-2.png",
+        "github": "https://github.com/taahirahismail/portfolio-project-week.git",
+        "netlify": "https://wondrous-lily-5d94ab.netlify.app/"
+    },
+    {
+        "id": 4,
+        "title": "Calculator App",
+        "img": "https://i.postimg.cc/B6535MFT/calculator.png",
+        "github": "https://github.com/taahirahismail/calculator-js.git",
+        "netlify": "https://shiny-stardust-4bf022.netlify.app"
+    },
+    {
+        "id": 5,
+        "title": "BMI Calculator",
+        "img": "https://i.postimg.cc/4dRZhrY4/bmi-calculator.png",
+        "github": "https://github.com/taahirahismail/bmi-calculator.git",
+        "netlify": "https://flourishing-zuccutto-43d997.netlify.app"
+    },
+    {
+        "id": 6,
+        "title": "Temperature Converter",
+        "img": "https://i.postimg.cc/MHd8NHdX/temp-converter.png",
+        "github": "https://github.com/taahirahismail/temp-converter.git",
+        "netlify": "https://loquacious-stardust-205a81.netlify.app"
+    },
+    {
+        "id": 7,
+        "title": "Gadget Store",
+        "img": "https://i.postimg.cc/xjXWNvHc/meta-devices.png",
+        "github": "https://github.com/gxotiweokuhle/e-commerce-groupwork/tree/final",
+        "netlify": "https://if-books-could-kill-store.netlify.app"
+    },
+    {
+        "id": 8,
+        "title": "Book Store",
+        "img": "https://i.postimg.cc/zvPcTgxw/js-eomp.png",
+        "github": "https://github.com/taahirahismail/javascript-project-week.git",
+        "netlify": "https://if-books-could-kill-store.netlify.app"
+    }
+]

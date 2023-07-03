@@ -1,29 +1,34 @@
 [
     {
+        "id": 1,
         "year": "Present",
         "title": "Student",
         "place": "Life Choices Academy",
         "desc": "The beginning of my future career in web development!"
     },
     {
+        "id": 2,
         "year": "2022",
         "title": "Data Capturer",
         "place": "Islamic Relief South Africa",
         "desc": "Formed part of the Donor and Orphan Care department. Responsibilities included collection and confirmation of donor information, and making calls to donors to update information and promote new projects."
     },
     {
+        "id": 3,
         "year": "2021",
         "title": "BScHons Biochemistry",
         "place": "Stellenbosch University",
         "desc": "Graduated with a final average of 71%. Conducted research in the systems biology field, studying multi-scaled models and performing data analyses on them."
     },
     {
+        "id": 5,
         "year": "2017 - 2020",
         "title": "BSc Molecular Biology and Biotechnology",
         "place": "Stellenbosch University",
         "desc": "Graduated with one distinction and an average of 70% in Biochemistry."
     },
     {
+        "id": 6,
         "year": "2012 - 2016",
         "title": "Student",
         "place": "South Peninsula High School",

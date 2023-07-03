@@ -1,35 +1,41 @@
 [
     {
+        "id": 1,
         "quote": "Taahirah is a very nice and kind person. She is also very smart and if you ever struggle with something she is always eager to try and help you figure out your problem. She always gives me ideas for my project sometimes small sometimes big but nonetheless she is just a cool person in general.",
         "img": "https://i.postimg.cc/ZRZrcFLd/timothy.jpg",
         "name": "Timothy Barry",
         "relation": "Colleague"
     },
     {
+        "id": 2,
         "quote": "Taahirah is intelligent and an extremely fast learner that is always willing to help. Hardworking is an understatement when describing her. She is so disciplined, you would waste your time trying to distract her when her mind is set on a task. Genuinely one of the best people I have met.",
         "img": "https://i.postimg.cc/VkrBLN6d/lylebrown.jpg",
         "name": "Lyle Brown",
         "relation": "Colleague"
     },
     {
+        "id": 3,
         "quote": "Taahirah is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, have fun while doing so.",
         "img": "https://i.postimg.cc/8kwLDv11/ayesha.jpg",
         "name": "Ayesha Galant",
         "relation": "Colleague"
     },
     {
+        "id": 4,
         "quote": "Working alongside Taahirah has been a great pleasure. A very helpful individual who always strives to do her best. Her enthusiasm is empowering.",
         "img": "https://i.postimg.cc/rwBGdL0g/cheslyn.jpg",
         "name": "Cheslyn Herman",
         "relation": "Colleague"
     },
     {
+        "id": 5,
         "quote": "I have known Taahirah for such a short time but I have discovered that she is very enthusiastic and hard-working. She has good character and is always up to date with her projects.",
         "img": "https://i.postimg.cc/zXpPR387/khazimla.jpg",
         "name": "Khazimla Mahomana",
         "relation": "Colleague"
     },
     {
+        "id": 6,
         "quote": "As Taahirah's team leader, I have been impressed with her skills and dedication. She has quickly become an important member of our team. I have no doubt that she will continue to develop her skills and make valuable contributions to our projects.",
         "img": "https://i.postimg.cc/KYtPBstb/meezaan.jpg",
         "name": "Meezaan Davids",

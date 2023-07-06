@@ -40,81 +40,9 @@
     "playlist": [
         {
             "id": 1,
-            "img": "https://i.postimg.cc/Fsk2HChj/14.png",
-            "name": "intro"
-        },
-        {
-            "id": 2,
-            "img": "https://i.postimg.cc/L55FDHd7/1.png",
-            "name": "friends"
-        },
-        {
-            "id": 3,
-            "img": "https://i.postimg.cc/pdVvrQGR/10.png",
-            "name": "money"
-        },
-        {
-            "id": 4,
-            "img": "https://i.postimg.cc/MKRqFpf2/11.png",
-            "name": "web dev career"
-        },
-        {
-            "id": 5,
-            "img": "https://i.postimg.cc/B6wVqHyY/13.png",
-            "name": "farm"
-        },
-        {
-            "id": 6,
-            "img": "https://i.postimg.cc/gjQQK8HX/2.png",
-            "name": "running"
-        },
-        {
-            "id": 7,
-            "img": "https://i.postimg.cc/0jMHrr18/6.png",
-            "name": "growth quote"
-        },
-        {
-            "id": 8,
-            "img": "https://i.postimg.cc/QNy2sZZ8/3.png",
-            "name": "crochet"
-        },
-        {
-            "id": 9,
-            "img": "https://i.postimg.cc/XYk3n1gs/8.png",
-            "name": "ducks"
-        },
-        {
-            "id": 10,
-            "img": "https://i.postimg.cc/Px6BPBLM/12.png",
-            "name": "science career"
-        },
-        {
-            "id": 11,
-            "img": "https://i.postimg.cc/W34yLX9q/4.png",
-            "name": "baking"
-        },
-        {
-            "id": 12,
-            "img": "https://i.postimg.cc/7L9RWpNy/7.png",
-            "name": "out of your way quote"
-        },
-        {
-            "id": 13,
-            "img": "https://i.postimg.cc/y8q2ghN2/5.png",
-            "name": "reading"
-        },
-        {
-            "id": 14,
-            "img": "https://i.postimg.cc/8k71LH1C/9.png",
-            "name": "daffodils"
-        }
-    ],
-
-    "projects": [
-        {
-            "id": 1,
             "title": "Candle Store",
             "img": "https://i.postimg.cc/MTqNwxcB/candles.png",
+            "desc": "Not very functional but the structure is there. Home page was made by yours truly.",
             "github": "https://github.com/CummingsRayyan/Candles_group_exercise.git",
             "netlify": "https://main--flourishing-pudding-bf3eed.netlify.app/"
         },
@@ -122,6 +50,7 @@
             "id": 2,
             "title": "NGO Website",
             "img": "https://i.postimg.cc/zXGNWwGh/ngo-website.png",
+            "desc": "Unfinished, but I made the contact page!",
             "github": "https://github.com/taahirahismail/group-3.git",
             "netlify": "https://effervescent-tanuki-848b0d.netlify.app"
         },
@@ -129,6 +58,7 @@
             "id": 3,
             "title": "First Portfolio",
             "img": "https://i.postimg.cc/660wybtw/portfolio-2.png",
+            "desc": "The first piece of work I did that I was extremely proud of. The reason I push myself to always do better because I know I can.",
             "github": "https://github.com/taahirahismail/portfolio-project-week.git",
             "netlify": "https://wondrous-lily-5d94ab.netlify.app/"
         },
@@ -136,6 +66,7 @@
             "id": 4,
             "title": "Calculator App",
             "img": "https://i.postimg.cc/B6535MFT/calculator.png",
+            "desc": "My first JavaScript project. It was difficult to figure out but we got there eventually! (just don't click on a function more than once pls).",
             "github": "https://github.com/taahirahismail/calculator-js.git",
             "netlify": "https://shiny-stardust-4bf022.netlify.app"
         },
@@ -143,6 +74,7 @@
             "id": 5,
             "title": "BMI Calculator",
             "img": "https://i.postimg.cc/4dRZhrY4/bmi-calculator.png",
+            "desc": "Another little project I was quite proud of. I love when things work out for me.",
             "github": "https://github.com/taahirahismail/bmi-calculator.git",
             "netlify": "https://flourishing-zuccutto-43d997.netlify.app"
         },
@@ -150,6 +82,7 @@
             "id": 6,
             "title": "Temperature Converter",
             "img": "https://i.postimg.cc/MHd8NHdX/temp-converter.png",
+            "desc": "Only from fahrenheit to celsius (and vice versa) but who needs kelvin anyway?",
             "github": "https://github.com/taahirahismail/temp-converter.git",
             "netlify": "https://loquacious-stardust-205a81.netlify.app"
         },
@@ -157,6 +90,7 @@
             "id": 7,
             "title": "Gadget Store",
             "img": "https://i.postimg.cc/xjXWNvHc/meta-devices.png",
+            "desc": "A cute little group exercise that I had a lot of fun doing. I styled the home page! (can you tell I picked out the color scheme?)",
             "github": "https://github.com/gxotiweokuhle/e-commerce-groupwork/tree/final",
             "netlify": "https://if-books-could-kill-store.netlify.app"
         },
@@ -164,6 +98,7 @@
             "id": 8,
             "title": "Book Store",
             "img": "https://i.postimg.cc/zvPcTgxw/js-eomp.png",
+            "desc": "My final JavaScript project. It felt really good to figure out all those functions on my own (for the most part). Also, look at me moving out of my comfort zone with the colors.",
             "github": "https://github.com/taahirahismail/javascript-project-week.git",
             "netlify": "https://if-books-could-kill-store.netlify.app"
         }

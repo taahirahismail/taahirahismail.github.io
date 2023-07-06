@@ -1,0 +1,224 @@
+{
+    "experiences": [
+        {
+            "id": 1,
+            "year": "Present",
+            "title": "Student",
+            "place": "Life Choices Academy",
+            "desc": "The beginning of my future career in web development!"
+        },
+        {
+            "id": 2,
+            "year": "2022",
+            "title": "Data Capturer",
+            "place": "Islamic Relief South Africa",
+            "desc": "Formed part of the Donor and Orphan Care department. Responsibilities included collection and confirmation of donor information, and making calls to donors to update information and promote new projects."
+        },
+        {
+            "id": 3,
+            "year": "2021",
+            "title": "BScHons Biochemistry",
+            "place": "Stellenbosch University",
+            "desc": "Graduated with a final average of 71%. Conducted research in the systems biology field, studying multi-scaled models and performing data analyses on them."
+        },
+        {
+            "id": 5,
+            "year": "2017 - 2020",
+            "title": "BSc Molecular Biology and Biotechnology",
+            "place": "Stellenbosch University",
+            "desc": "Graduated with one distinction and an average of 70% in Biochemistry."
+        },
+        {
+            "id": 6,
+            "year": "2012 - 2016",
+            "title": "Student",
+            "place": "South Peninsula High School",
+            "desc": "Matriculated with a bachelor's pass and a final average of 76.8%."
+        }
+    ],
+
+    "playlist": [
+        {
+            "id": 1,
+            "img": "https://i.postimg.cc/Fsk2HChj/14.png",
+            "name": "intro"
+        },
+        {
+            "id": 2,
+            "img": "https://i.postimg.cc/L55FDHd7/1.png",
+            "name": "friends"
+        },
+        {
+            "id": 3,
+            "img": "https://i.postimg.cc/pdVvrQGR/10.png",
+            "name": "money"
+        },
+        {
+            "id": 4,
+            "img": "https://i.postimg.cc/MKRqFpf2/11.png",
+            "name": "web dev career"
+        },
+        {
+            "id": 5,
+            "img": "https://i.postimg.cc/B6wVqHyY/13.png",
+            "name": "farm"
+        },
+        {
+            "id": 6,
+            "img": "https://i.postimg.cc/gjQQK8HX/2.png",
+            "name": "running"
+        },
+        {
+            "id": 7,
+            "img": "https://i.postimg.cc/0jMHrr18/6.png",
+            "name": "growth quote"
+        },
+        {
+            "id": 8,
+            "img": "https://i.postimg.cc/QNy2sZZ8/3.png",
+            "name": "crochet"
+        },
+        {
+            "id": 9,
+            "img": "https://i.postimg.cc/XYk3n1gs/8.png",
+            "name": "ducks"
+        },
+        {
+            "id": 10,
+            "img": "https://i.postimg.cc/Px6BPBLM/12.png",
+            "name": "science career"
+        },
+        {
+            "id": 11,
+            "img": "https://i.postimg.cc/W34yLX9q/4.png",
+            "name": "baking"
+        },
+        {
+            "id": 12,
+            "img": "https://i.postimg.cc/7L9RWpNy/7.png",
+            "name": "out of your way quote"
+        },
+        {
+            "id": 13,
+            "img": "https://i.postimg.cc/y8q2ghN2/5.png",
+            "name": "reading"
+        },
+        {
+            "id": 14,
+            "img": "https://i.postimg.cc/8k71LH1C/9.png",
+            "name": "daffodils"
+        }
+    ],
+
+    "projects": [
+        {
+            "id": 1,
+            "title": "Candle Store",
+            "img": "https://i.postimg.cc/MTqNwxcB/candles.png",
+            "desc": "Not very functional but the structure is there. Home page was made by yours truly.",
+            "github": "https://github.com/CummingsRayyan/Candles_group_exercise.git",
+            "netlify": "https://main--flourishing-pudding-bf3eed.netlify.app/"
+        },
+        {
+            "id": 2,
+            "title": "NGO Website",
+            "img": "https://i.postimg.cc/zXGNWwGh/ngo-website.png",
+            "desc": "Unfinished, but I made the contact page!",
+            "github": "https://github.com/taahirahismail/group-3.git",
+            "netlify": "https://effervescent-tanuki-848b0d.netlify.app"
+        },
+        {
+            "id": 3,
+            "title": "First Portfolio",
+            "img": "https://i.postimg.cc/660wybtw/portfolio-2.png",
+            "desc": "The first piece of work I did that I was extremely proud of. The reason I push myself to always do better because I know I can.",
+            "github": "https://github.com/taahirahismail/portfolio-project-week.git",
+            "netlify": "https://wondrous-lily-5d94ab.netlify.app/"
+        },
+        {
+            "id": 4,
+            "title": "Calculator App",
+            "img": "https://i.postimg.cc/B6535MFT/calculator.png",
+            "desc": "My first JavaScript project. It was difficult to figure out but we got there eventually! (just don't click on a function more than once pls).",
+            "github": "https://github.com/taahirahismail/calculator-js.git",
+            "netlify": "https://shiny-stardust-4bf022.netlify.app"
+        },
+        {
+            "id": 5,
+            "title": "BMI Calculator",
+            "img": "https://i.postimg.cc/4dRZhrY4/bmi-calculator.png",
+            "desc": "Another little project I was quite proud of. I love when things work out for me.",
+            "github": "https://github.com/taahirahismail/bmi-calculator.git",
+            "netlify": "https://flourishing-zuccutto-43d997.netlify.app"
+        },
+        {
+            "id": 6,
+            "title": "Temperature Converter",
+            "img": "https://i.postimg.cc/MHd8NHdX/temp-converter.png",
+            "desc": "Only from fahrenheit to celsius (and vice versa) but who needs kelvin anyway?",
+            "github": "https://github.com/taahirahismail/temp-converter.git",
+            "netlify": "https://loquacious-stardust-205a81.netlify.app"
+        },
+        {
+            "id": 7,
+            "title": "Gadget Store",
+            "img": "https://i.postimg.cc/xjXWNvHc/meta-devices.png",
+            "desc": "A cute little group exercise that I had a lot of fun doing. I styled the home page! (can you tell I picked out the color scheme?)",
+            "github": "https://github.com/gxotiweokuhle/e-commerce-groupwork/tree/final",
+            "netlify": "https://if-books-could-kill-store.netlify.app"
+        },
+        {
+            "id": 8,
+            "title": "Book Store",
+            "img": "https://i.postimg.cc/zvPcTgxw/js-eomp.png",
+            "desc": "My final JavaScript project. It felt really good to figure out all those functions on my own (for the most part). Also, look at me moving out of my comfort zone with the colors.",
+            "github": "https://github.com/taahirahismail/javascript-project-week.git",
+            "netlify": "https://if-books-could-kill-store.netlify.app"
+        }
+    ],
+
+    "testimonials": [
+        {
+            "id": 1,
+            "quote": "Taahirah is a very nice and kind person. She is also very smart and if you ever struggle with something she is always eager to try and help you figure out your problem. She always gives me ideas for my project sometimes small sometimes big but nonetheless she is just a cool person in general.",
+            "img": "https://i.postimg.cc/ZRZrcFLd/timothy.jpg",
+            "name": "Timothy Barry",
+            "relation": "Colleague"
+        },
+        {
+            "id": 2,
+            "quote": "Taahirah is intelligent and an extremely fast learner that is always willing to help. Hardworking is an understatement when describing her. She is so disciplined, you would waste your time trying to distract her when her mind is set on a task. Genuinely one of the best people I have met.",
+            "img": "https://i.postimg.cc/VkrBLN6d/lylebrown.jpg",
+            "name": "Lyle Brown",
+            "relation": "Colleague"
+        },
+        {
+            "id": 3,
+            "quote": "Taahirah is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, have fun while doing so.",
+            "img": "https://i.postimg.cc/8kwLDv11/ayesha.jpg",
+            "name": "Ayesha Galant",
+            "relation": "Colleague"
+        },
+        {
+            "id": 4,
+            "quote": "Working alongside Taahirah has been a great pleasure. A very helpful individual who always strives to do her best. Her enthusiasm is empowering.",
+            "img": "https://i.postimg.cc/rwBGdL0g/cheslyn.jpg",
+            "name": "Cheslyn Herman",
+            "relation": "Colleague"
+        },
+        {
+            "id": 5,
+            "quote": "I have known Taahirah for such a short time but I have discovered that she is very enthusiastic and hard-working. She has good character and is always up to date with her projects.",
+            "img": "https://i.postimg.cc/zXpPR387/khazimla.jpg",
+            "name": "Khazimla Mahomana",
+            "relation": "Colleague"
+        },
+        {
+            "id": 6,
+            "quote": "As Taahirah's team leader, I have been impressed with her skills and dedication. She has quickly become an important member of our team. I have no doubt that she will continue to develop her skills and make valuable contributions to our projects.",
+            "img": "https://i.postimg.cc/KYtPBstb/meezaan.jpg",
+            "name": "Meezaan Davids",
+            "relation": "Team Leader"
+        }
+    ]
+}
